@@ -1,5 +1,5 @@
 # Coin-puzzle-switcheroo
-A coin puzzle game simulated using python
+A coin puzzle game made using python
 
 Coinpuzzle.py is a program that simulates a simple coin game. 
 
